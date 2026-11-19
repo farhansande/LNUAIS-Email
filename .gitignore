@@ -1,0 +1,4 @@
+# Member data and send logs contain personal information - keep them out of git.
+*.csv
+sent_logs/
+__pycache__/
